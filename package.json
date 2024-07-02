@@ -16,8 +16,9 @@
     "jsonwebtoken": "^9.0.2",
     "next": "^15.0.0-canary.47",
     "prisma": "^5.16.1",
-    "react": "^19.0.0-rc-e02baf6c92-20240627",
-    "react-dom": "^19.0.0-rc-e02baf6c92-20240627"
+    "react": "^19.0.0-rc-3563387fe3-20240621",
+    "react-dom": "^19.0.0-rc-3563387fe3-20240621",
+    "react-modal": "^3.16.1"
   },
   "devDependencies": {
     "daisyui": "^4.12.10",
